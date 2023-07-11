@@ -1,5 +1,9 @@
 # py-grafik-tasarim-sunucu-botu
 py ile kendimi geliştirmek amaçlı arkadaşımın sunucusuna yaptığım discord botu hataları olabilir düzeltip kullanabilirsiniz
+indirdiğim modüller:
+* pycord
+* easy_pil
+
 [![SIESTA](https://media.discordapp.net/attachments/800009379868180494/1128440876121727106/Ekran_goruntusu_2023-07-12_003006.png?width=1111&height=240)](https://github.com/siestaxd/)
 
 # görseller
