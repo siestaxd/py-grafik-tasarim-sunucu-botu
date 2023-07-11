@@ -1,12 +1,12 @@
 {
-    "token":"MTEyNzc2MDc2MDcxODc3NDQwMg.GuCuI-.N04UdVnXELEJ5LgJbJrGO1GyfN1QZL8oKKa9Mw",
+    "token":"BOT TOKENİ",
     "prefix":"s!",
     "activity":"Siesta ❤️",
-    "resimlihgbbid":"1127726518458662992",
-    "gelengidenlogid":"1127717303887335485",
-    "sayaclogid":"1127717303887335485",
-    "sayachedef":"500",
-    "otorolid":"1127717181069729853",
-    "ticketcategory":"1128103139996868709",
-    "ticketlog":"1128347793455595601"
+    "resimlihgbbid":"RESİMLİ HG-BB KANAL İD",
+    "gelengidenlogid":"GELEN GİDEN LOG İD",
+    "sayaclogid":"SAYAC LOG KANAL İD",
+    "sayachedef":"SAYAC HEDEF ÖRN: 500",
+    "otorolid":"OTOROL ROL İD",
+    "ticketcategory":"TİCKET KATEGORİ İD",
+    "ticketlog":"TİCKET LOG İD"
 }
